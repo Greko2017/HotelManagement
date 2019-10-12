@@ -1,0 +1,13 @@
+boto3==1.9.114
+Django==2.1.4
+django-bootstrap-form==3.4
+django-crispy-forms==1.7.2
+django-filter==2.1.0
+django-heroku==0.3.1
+django-storages==1.7.1
+gunicorn==19.9.0
+python-decouple==3.1
+asgiref==2.3.2
+django-tables2==2.0.4
+tablib==0.12.1
+user-agents==1.1.0
